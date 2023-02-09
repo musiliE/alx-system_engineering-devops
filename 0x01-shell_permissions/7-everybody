@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod uxgxox hello
+chmod 777 640 444 hello
