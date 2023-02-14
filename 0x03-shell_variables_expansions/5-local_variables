@@ -1,2 +1,2 @@
 #!/bin/bash
-set.sorted printenv.sorted
+echo set.sorted printenv.sorted
