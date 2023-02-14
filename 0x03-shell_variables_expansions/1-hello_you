@@ -1,2 +1,2 @@
 #!/bin/bash
-alias user="myUser" | echo hello user
+echo hello root
